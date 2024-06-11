@@ -13,8 +13,13 @@
   color-scheme: dark;
 }
 
+.glow {
+  @apply filter transition duration-300 ease-in-out;
+  filter: drop-shadow(0 0 1px rgba(255, 0, 0, 0.7)) drop-shadow(0 0 2px rgba(255, 0, 0, 0.7));
+}
+
 * {
-  scroll-behavior: smooth; 
+  scroll-behavior: smooth;
 }
 
 @layer base {
