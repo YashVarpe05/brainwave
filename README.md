@@ -1,7 +1,4 @@
-<div align="center">
-  <br />
-          <img src="./src/assets/Group 2.png" alt="Project Banner">
-  <br />
+<img src="./src/assets/Group 2.png" alt="Project Banner">
 
 ## <a name="introduction">🤖 Introduction</a>
 
